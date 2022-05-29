@@ -19,15 +19,15 @@
 
 ## Modulo IV
 
-- [] Desenvolvimento Web com Angular
+- [ ] Desenvolvimento Web com Angular
 
 ## Modulo V
 
-- [] Bancos de Dados Relacionais(SQL)
+- [ ] Bancos de Dados Relacionais(SQL)
 
 ## Modulo VI
 
-- [] Dominando o Ecossistema .NET com C#
+- [ ] Dominando o Ecossistema .NET com C#
 
 
 
