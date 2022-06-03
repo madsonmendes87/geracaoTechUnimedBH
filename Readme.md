@@ -11,7 +11,7 @@
 
 ## Modulo II
 
-- [ ] Fundamentos Web com HTML e CSS
+- [x] Fundamentos Web com HTML e CSS
 
 ## Modulo III
 
