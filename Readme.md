@@ -15,7 +15,7 @@
 
 ## Modulo III
 
-- [ ] Conhecendo a Linguagem de Programacao JavaScript
+- [x] Conhecendo a Linguagem de Programacao JavaScript
 
 ## Modulo IV
 
