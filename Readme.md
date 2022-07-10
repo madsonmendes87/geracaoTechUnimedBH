@@ -19,11 +19,11 @@
 
 ## Modulo IV
 
-- [ ] Desenvolvimento Web com Angular
+- [x] Desenvolvimento Web com Angular
 
 ## Modulo V
 
-- [ ] Bancos de Dados Relacionais(SQL)
+- [x] Bancos de Dados Relacionais(SQL)
 
 ## Modulo VI
 
