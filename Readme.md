@@ -1,5 +1,7 @@
 # Geração Tech Unimed-BH | Fullstack
 
+Implementei um readme, demonstrando minha evolução nos módulos do bootcamp geração tech unimed bh
+
 ## Modulo 0
 
 - [x] Prepare-se para a jornada
